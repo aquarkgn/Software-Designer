@@ -1,0 +1,8 @@
+/.history/*
+/.vscode/*
+/.git/*
+/.idea/*
+/.svn/*
+
+*.bak
+*.bk
